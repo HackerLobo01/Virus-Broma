@@ -1,3 +1,5 @@
 # Virus-Broma
 Archivo de Virus Broma (No peligroso)
-Creador.HackerLobo01
+
+
+Creador:HackerLobo01
